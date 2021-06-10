@@ -1,3 +1,6 @@
-let nombre = "matias"
-let elMioEs = 'Antonio Diaz'
-console.log('haber esto servira?');
+let nombre = 'Matias'
+let elMioEs = {
+    nombre: "Antonio",
+    apellido: "Diaz Fierro"
+}
+console.log('cambios aceptados');
