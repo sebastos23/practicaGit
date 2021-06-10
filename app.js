@@ -1,2 +1,5 @@
-let nombre = "matias"
-let elMioEs = 'Antonio'
+let nombre = 'Matias'
+let elMioEs = {
+    nombre: "Antonio",
+    apellido: "Diaz Fierro"
+}
